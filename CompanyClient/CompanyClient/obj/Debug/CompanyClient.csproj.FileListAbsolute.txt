@@ -1,0 +1,6 @@
+E:\Works\Code\WCF\CompanyClient\CompanyClient\bin\CompanyClient.dll.config
+E:\Works\Code\WCF\CompanyClient\CompanyClient\bin\CompanyClient.dll
+E:\Works\Code\WCF\CompanyClient\CompanyClient\bin\CompanyClient.pdb
+E:\Works\Code\WCF\CompanyClient\CompanyClient\obj\Debug\CompanyClient.csprojResolveAssemblyReference.cache
+E:\Works\Code\WCF\CompanyClient\CompanyClient\obj\Debug\CompanyClient.dll
+E:\Works\Code\WCF\CompanyClient\CompanyClient\obj\Debug\CompanyClient.pdb
